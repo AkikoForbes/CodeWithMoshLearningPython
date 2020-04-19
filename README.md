@@ -1,2 +1,2 @@
-# CodeWithMoshLearningPython
-# Python code while learning python through Code With Mosh course.
+# cwm-learningpython
+# started learning python through Code Wish Mosh "The Complete Python Course"
