@@ -8,5 +8,7 @@ unit_price = 5
 
 print("Hello World")
 
-2 + 3
-x = 1
+a = 2 + 3
+b = 4
+score = a + b
+print(score)
