@@ -12,3 +12,5 @@ git push
 ```
 git pull
 ```
+
+## By setting SSH, ID and password won't be necessary when the code is pushed.
